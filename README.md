@@ -1,4 +1,4 @@
-GitHub Copilot: Sure, here's an example of what the README files for `pybank.ipynb` and `pypoll.ipynb` could look like:
+
 
 ## Pybank
 
